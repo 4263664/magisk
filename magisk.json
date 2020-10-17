@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": "7.5.1"
+    ,"versionCode": "267"
+    ,"link": "https://suxiaoqx.gd2.qingstor.com/MagiskManager-v7.5.1.apk"
+    },
+ "uninstaller": {
+    "link": "https://suxiaoqx.gd2.qingstor.com/Magisk-uninstaller-20201003.zip"
+  },
+  "magisk": {
+    "version": "21.0"
+    ,"versionCode": "21000"
+    ,"link": "https://suxiaoqx.gd2.qingstor.com/Magisk-21.0(21000).zip"
+    ,"md5": "13d4bab053d694966e4cadd623458523"
+  },
+  "message":{
+  	"Power By":"苏晓晴"
+  	,"My Coolapk":"辉夜小可爱"
+  	,"Blog":"https://www.toubiec.cn"
+  }
+}
